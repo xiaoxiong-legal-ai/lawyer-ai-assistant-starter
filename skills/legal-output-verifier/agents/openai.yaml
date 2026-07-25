@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律交付验收器"
+  short_description: "用文件、内容回读和下游回执三层证据核验法律任务是否完成"
+  default_prompt: "使用 $legal-output-verifier 检查这项法律工作是否真正完成，并给出 PASS、FAIL 或 BLOCKED。"

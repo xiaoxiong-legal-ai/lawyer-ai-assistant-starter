@@ -1,0 +1,4 @@
+interface:
+  display_name: "合同审查入门 Skill"
+  short_description: "按主体、交易、履行、责任和争议路径完成基础合同风险审查"
+  default_prompt: "使用 $contract-review-starter 按照结构化流程审查这份虚构合同，并列出待人工核验项。"

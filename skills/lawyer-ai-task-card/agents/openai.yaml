@@ -1,0 +1,4 @@
+interface:
+  display_name: "律师 AI 任务卡"
+  short_description: "把律师口述任务转换为边界清楚、可以复核验收的标准任务卡"
+  default_prompt: "使用 $lawyer-ai-task-card 把我的口述工作要求整理成一张可执行、可复核的律师任务卡。"
